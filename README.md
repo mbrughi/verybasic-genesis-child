@@ -1,5 +1,4 @@
-# verybasic-genesis-child
-<h1>VERY BASIC</h1>
+# <h1>VERY BASIC</h1>
 
 Blank Child starter theme for Wordpress Genesis Framework.
 
